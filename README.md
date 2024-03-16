@@ -47,7 +47,7 @@ Usage
 
 Clone the repository:
 ```bash
-git clone https://github.com/your_username/predictive-maintenance-metro.git
+git clone https://github.com/Shrikanthp04/Metro_Train_Predictive_Maintenance_System.git
 ```
 Install dependencies:
 ```bash
